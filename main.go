@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	socketio "github.com/googollee/go-socket-io"
+	socketio "github.com/googollee/go-socket.io"
 )
 
 
